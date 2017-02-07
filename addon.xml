@@ -9,9 +9,9 @@
 		<checksum>https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml.md5</checksum>
 		<datadir zip="true">https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/zips/</datadir>
 	</dir>
-		<info compressed="false">http://kisakul.com/test/zips/addons.xml</info>
-		<checksum>http://kisakul.com/test/zips/addons.xml.md5</checksum>
-		<datadir zip="true">http://kisakul.com/test/zips/</datadir>
+		<info compressed="false">https://raw.githubusercontent.com/gypogypo/gypo1/master/zipss/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/gypogypo/gypo1/master/zipss/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/gypogypo/gypo1/master/zipss/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>THE gypo GROUP REPOSITORY</summary>
