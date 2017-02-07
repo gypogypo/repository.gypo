@@ -1,1 +1,1 @@
-# repositry.gypo
+# repository.gypo
