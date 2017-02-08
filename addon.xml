@@ -9,7 +9,7 @@
 		<checksum>https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml.md5</checksum>
 		<datadir zip="true">https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/zips/</datadir>
 	</dir>
-		<info compressed="false">https://github.com/gypogypo/gypo1/blob/master/zipss/addons.xml</info>
+		<info compressed="false">https://github.com/gypogypo/gypo1/raw/master/zipss/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/gypogypo/gypo1/master/zipss/addons.xml.md5</checksum>
 		<datadir zip="true">https://github.com/gypogypo/gypo1</datadir>
 	</extension>
